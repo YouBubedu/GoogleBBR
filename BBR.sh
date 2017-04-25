@@ -16,7 +16,8 @@ echo "|        A tool to auto-compile & install BBR on CentOS                  |
 echo "+------------------------------------------------------------------------+"
 echo "|                 Welcome to  http://github.com/52fancy                  |"
 echo "+------------------------------------------------------------------------+"
-
+echo "|                 Welcome to  http://github.com/YouBubedu                |"
+echo "+------------------------------------------------------------------------+"
 Get_RHEL_Version()
 {
     if grep -Eqi "release 5." /etc/redhat-release; then
